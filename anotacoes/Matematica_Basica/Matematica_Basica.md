@@ -8,7 +8,7 @@ Esse comando pode executar quase todos os comandos de forma intuitiva
 - "+"
 - "-"
 - "/"
-- "\*"
+- "\\*"
 
 O '*' é considerado um "coringa" então é necessário essa formação especial
 
